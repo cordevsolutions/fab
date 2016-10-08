@@ -2,7 +2,7 @@
   "name": "fab",
   "version": "0.0.1",
   "description": "fab",
-  "authors": [],
+  "authors": ["John Walsh"],
   "license": "MIT",
   "ignore": [
     "**/.*",

@@ -1,7 +1,7 @@
 {
   "name": "fab",
-  "description": "fab Project Generated from HotTowel Angular",
-  "version": "0.0.0",
+  "description": "Fitness * Adventure * Beer",
+  "version": "0.0.1",
   "scripts": {
     "init": "npm install",
     "install": "bower install",
